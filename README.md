@@ -30,3 +30,4 @@ Folder Structure:
     /uploads (for uploaded images and videos)
     /database (MongoDB)
 
+
